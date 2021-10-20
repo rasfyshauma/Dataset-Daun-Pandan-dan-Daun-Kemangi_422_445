@@ -8,7 +8,6 @@ Berikut adalah tugas Mata Kuliah Kecerdasan Buatan mengenai Dataset Daun Pandan 
 
 ## Nama Anggota Kelompok :
 ```
-Alfian Dwi Cahyono (201910370311409)
 Kurnia Putera Bagaskara (201910370311422)
 Rasfy Shauma Moisa Asda (201910370311445)
 ```
